@@ -1,0 +1,5 @@
+This project demonstrates a spring simulation with a red cube and a blue sphere connected with a spring (represented by a line). 
+
+In the lab4 simulation, the red cube is fixed and unaffected by gravity. Both the cube and sphere can be moved with a mouse drag, but, once released, the cube will not change location on its own or be affected by gravity. The sphere behaves as if connected to the cube by a spring. 
+
+In the lab4_bonus simulation, neither the red cube nor the blue sphere are fixed. Neither are affected by gravity either. Both objects can be moved with a mouse drag and, when released, will act as if connected with a spring in a weightless environment. 
